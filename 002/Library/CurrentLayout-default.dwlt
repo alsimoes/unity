@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 292}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 62
+  controlID: 18
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 61
+  controlID: 22
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -277,7 +277,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 67
+  controlID: 23
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,7 +302,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 68
+  controlID: 24
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,21 +367,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Objects
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Objects
+  - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Pichau\dev\ebac\unity\Projeto Entrada
+  m_LastProjectPath: C:\Users\Pichau\dev\ebac\unity\002
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d23c0000
-    m_LastClickedID: 15570
+    m_SelectedIDs: ce3c0000
+    m_LastClickedID: 15566
     m_ExpandedIDs: 00000000ce3c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -642,9 +642,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1639687, y: -0.10400525, z: 0.017204497, w: 0.9809595}
+    m_Target: {x: 0.21723971, y: -0.07522747, z: 0.016588185, w: 0.9732213}
     speed: 2
-    m_Value: {x: 0.16539055, y: -0.1054355, z: 0.01760625, w: 0.980418}
+    m_Value: {x: 0.21730414, y: -0.06937687, z: 0.015282263, w: 0.97351545}
   m_Size:
     m_Target: 6.584742
     speed: 2
