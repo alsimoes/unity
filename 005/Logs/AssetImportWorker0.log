@@ -1,0 +1,158 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1083; Version 2009; 64bit' Language: 'pt' Physical Memory: 16294 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Pichau/dev/ebac/unity/005
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51078
+Successfully changed project path to: C:/Users/Pichau/dev/ebac/unity/005
+C:/Users/Pichau/dev/ebac/unity/005
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Pichau/dev/ebac/unity/005/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007969 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.103 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005858 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.881 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1414 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.5 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1862.
+Total: 1.720100 ms (FindLiveObjects: 0.148100 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.450400 ms  DeleteObjects: 0.074700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Environmental Race Track Pack/Prefabs/coastalTrack.prefab
+  artifactKey: Guid(7d76ac986883f6e47b38d02e17432708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environmental Race Track Pack/Prefabs/coastalTrack.prefab using Guid(7d76ac986883f6e47b38d02e17432708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d048a7a6fc287471a6c851187c3f2a') in 0.112194 seconds
+  Import took 0.115846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.253191 seconds.
+  path: Assets/Environmental Race Track Pack/Prefabs/The_Figure_Of_Eight.prefab
+  artifactKey: Guid(30c719a3acc71094aacf1e6d29516faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environmental Race Track Pack/Prefabs/The_Figure_Of_Eight.prefab using Guid(30c719a3acc71094aacf1e6d29516faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d0b20cf2f52a1fa0c960e694e9251a') in 0.018120 seconds
+  Import took 0.022244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.662071 seconds.
+  path: Assets/Environmental Race Track Pack/Prefabs/F1 RaceTrack.prefab
+  artifactKey: Guid(9234b507bb1d424449c1997fe6847ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environmental Race Track Pack/Prefabs/F1 RaceTrack.prefab using Guid(9234b507bb1d424449c1997fe6847ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e440f339b667defa5a478e2bc5ded6b2') in 0.039118 seconds
+  Import took 0.042729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.158961 seconds.
+  path: Assets/Environmental Race Track Pack/Prefabs/LampPost.prefab
+  artifactKey: Guid(a15701eb7154ce44f89e87cf69e30f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environmental Race Track Pack/Prefabs/LampPost.prefab using Guid(a15701eb7154ce44f89e87cf69e30f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0b2412c0bc959a26bfbb37cfd2d5f80') in 0.062275 seconds
+  Import took 0.065989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.093432 seconds.
+  path: Assets/Environmental Race Track Pack/Prefabs/RacingOval.prefab
+  artifactKey: Guid(cec1210f0c4825444836f0ed8e6e1915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environmental Race Track Pack/Prefabs/RacingOval.prefab using Guid(cec1210f0c4825444836f0ed8e6e1915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65983df5b23e7fb184584e62fb30c79') in 0.024276 seconds
+  Import took 0.027908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.620662 seconds.
+  path: Assets/Scenes/TheChase.unity
+  artifactKey: Guid(debd9b02db2c6c842af593ce6838f852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TheChase.unity using Guid(debd9b02db2c6c842af593ce6838f852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec1d90a8ad34da2ba22435b96f0bcfa') in 0.005335 seconds
+  Import took 0.007454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.476457 seconds.
+  path: Assets/Store
+  artifactKey: Guid(c512807c9b6fed044870acb8d0ab9c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Store using Guid(c512807c9b6fed044870acb8d0ab9c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f31f4fffa1bd1a8948ba1de3f5aee38a') in 0.004556 seconds
+  Import took 0.007310 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006750 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.035 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1401 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.9 MB.
+System memory in use after: 72.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1872.
+Total: 1.635900 ms (FindLiveObjects: 0.234600 ms CreateObjectMapping: 0.072800 ms MarkObjects: 1.271700 ms  DeleteObjects: 0.055700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
